@@ -1,5 +1,11 @@
 # 1. Git	clone, checkout, add, commit, pull, push.
+Tài liệu
+https://git-scm.com/docs/git
+https://github.com/devnguyenduc/simple-github/blob/master/GitHub-1.ipynb
 # 2. Review knowledge about Java core base on list below items about 2 weeks	static
+Tiếng Việt: https://gpcoder.com/
+Tiếng Anh: https://www.javatpoint.com
+
 - Class, Interface, Constant	1	
 - Enums, Annotations	1	
 - Java String	0.5	
@@ -12,6 +18,9 @@
 - Serialization	1
 - Exceptions: Checked and unchecked exceptions, customizing exception, exception chaning and propagation	1
 # 3. Spring Boot	Create a sample project	0.5	https://spring.io/guides/gs/rest-service/
+Tài liệu từ đây xuống dưới https://spring.io/projects/spring-boot
+Hướng dẫn đi kèm https://spring.io/guides
+
 - Initialization	1	
 - Externalized configruations	1	
 - Profiles	2	
@@ -33,6 +42,6 @@
 - Request Params validation	1	
 - Request filtering	2	
 - Security (Spring Security Oauth)	3	
-# 6. Docker
+# 6. Docker 
 - Docker file	1	
 - Docker compose	2	
